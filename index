@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Rakshbandhan</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+  <body>
+    <div id="banner" class="container-fluid" style="padding:0;margin:0;">
+      <img class="img-responsive" src="img/RakhiBanner.png" style="min-height:200px"/>
+    </div>
+
+    <div id="content_first" class="container" style="width:100%; height:750px; text-align:center;">
+      <div class="row" >
+
+        <div id="brother_first" class = "col-xs-5 col-sm-5 col-md-2 col-lg-2 vcenter" style="text-align: center;" >
+          <img class="img-responsive" src="img/brother_first_2.png" style="width:500px;height:450px;margin: 0 auto;"/>
+        </div>
+        <div id="sister_first"  class = "col-xs-5 col-sm-5 col-md-2 col-lg-2 col-lg-push-5 col-md-push-5 vcenter">
+          <img class="img-responsive" src="img/sister_first_2.png" style="width:500px;height:370px;margin: 0 auto;"/>
+        </div>
+
+        <div id="id_placeholder_first" class = "col-xs-8 col-sm-8 col-md-5 col-lg-5 col-lg-pull-2 col-md-pull-2 vcenter placeholder_first">
+
+        </div>
+
+
+        <div class="divHelper">
+        </div>
+      </div>
+    </div>
+
+    <div id="content_second" class="container" style="text-align: center;">
+      <div class="row" >
+
+        <div id="brother_sister" class="col-xs-8 col-sm-8 col-lg-5 col-md-5 col-lg-push-5 col-md-push-5 vcenter" style="text-align: center;" >
+          <img class="img-responsive" src="img/brother_sister_2.png" style="width:600px;height:500px;margin: 0 auto;"/>
+        </div>
+
+        <div id="id_placeholder_second" class = "col-xs-8 col-sm-8 col-md-5 col-lg-5  col-md-pull-5 col-lg-pull-5 vcenter placeholder_first">
+        </div>
+        <div class="divHelper">
+        </div>
+      </div>
+    </div>
+
+    <div id="content_third" class="container" style="text-align: center;">
+      <div class="row">
+          <div id="selfie" class="col-lg-12 col-xs-12 col-sm-12 col-md-12" style="text-align: center;">
+            <img class="img-responsive" src="img/selfie.png" style="width:500px;height:400px;margin: 0 auto;"/>
+          </div>
+          <div id="id_placeholder_third" class=" col-lg-push-2 col-md-push-2  col-xs-push-2 col-sm-push-2 col-lg-8 col-xs-8 col-sm-8 col-md-8 placeholder_first">
+          </div>
+      </div>
+    </div>
+
+
+    <!-- Teewe dongle image and buy now info -->
+    <div class="container" style="padding-top:2%; padding-bottom:2%; height: auto ;text-align:center;">
+      <div class="row" style="height: 100%;text-align:center;">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+          <img src="img/teewe-dongle.png" width="80%" height="55%">
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="text-align:center;padding-top:2%">
+          <p style="font-size:40px; padding-bottom:0;font-family: 'Roboto', sans-serif; font-weight:500;">TEEWE 2.0</p>
+          <p style="font-size:18px; padding-top:0;font-family: 'Roboto', sans-serif; font-weight:300;">HDMI Streaming Stick</p>
+
+          <p style="font-size:30px;font-family: 'Roboto', sans-serif; font-weight:500;">&#8377 2399 Only</p>
+          <button type="button" style="width:150px; height: 40px;font-size:20px;font-family: 'Roboto', sans-serif; font-weight:400;"><a href="http://www.teewe.in/product?utm_source=spice&utm_medium=lp&utm_campaign=spicedemo" target="_blank" style="text-decoration:none;">Buy Now</a></button>
+          <button type="button" style="width:150px; height: 40px;font-size:20px;font-family: 'Roboto', sans-serif; font-weight:400;"><a href="http://www.teewe.in/?utm_source=spice&utm_medium=lp&utm_campaign=spicedemo" target="_blank" style="text-decoration:none;">Learn More</a></button>
+        </div>
+      </div>
+    </div>
+    <!-- Buy section ends here -->
+
+
+    <!-- footer -->
+        <div class="container-fluid footer" style="height:100%; background-color:#00C094">
+          <div class="row" style="padding-top:4%;padding-bottom:4%;padding-left:4%; padding-right:4%;">
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" >
+              <h4 style="font-family: 'Roboto', sans-serif; font-weight:400;">Stay in touch.</h4>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">We pride ourselves with our content and our engagement with our beloved fans. </p>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">Do connect with us.</p>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">Like us on Facebook! <a href="https://www.facebook.com/teeweon" target="_blank"><img src="img/fb-logo.png" width="20px" height="20px"/></a></p>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">Talk about us on Twitter! <a href="https://twitter.com/talk2teewe" target="_blank"> <img src="img/tw-logo.png" width="20px" height="20px"/></a></p>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+              <h4 style="font-family: 'Roboto', sans-serif; font-weight:400;">Say Hello!</h4>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">We take it upon ourselves to make beautiful and simple products which are dead easy to set up and enjoy.</p>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">If you still have doubts, queries, feedback and hesitations, feel free to drop us a word at enquiries@teewe.in or simply call us at our toll free number 1800 - 200 - 0095 between 10:00 AM to 10:00 PM on all days of the week!</p>
+              <p style="font-family: 'Roboto', sans-serif; font-weight:400;">Expecting your call!</p>
+            </div>
+          </div>
+        </div>
+    <!-- footer ends here -->
+  </body>
+</html>
