@@ -5,6 +5,18 @@ body,html{
   height:auto;
 
 }
+.placeholder_image{
+	position:absolute;
+	top:0;
+	left:0;
+}
+.text_container{
+	position:absolute;
+	top:0;
+	left:0;
+	padding: 100px;
+	color:white;
+}
 #banner{
   position:relative;
   width:100% !important;
@@ -25,11 +37,8 @@ body,html{
 }
 .placeholder_first{
 
-  background-image:url("../img/placeholder.png");
   height:500px;
-  min-height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
+  min-height: 500px;  
 
 }
 
